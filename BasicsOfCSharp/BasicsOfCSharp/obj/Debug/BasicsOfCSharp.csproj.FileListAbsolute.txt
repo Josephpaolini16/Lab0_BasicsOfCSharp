@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Desktop\School\Sem_2.5\Object Oriented Programming\Labs\Lab00-Basics_of_C#\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.exe.config
+C:\Users\josep\OneDrive\Desktop\School\Sem_2.5\Object Oriented Programming\Labs\Lab00-Basics_of_C#\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.exe
+C:\Users\josep\OneDrive\Desktop\School\Sem_2.5\Object Oriented Programming\Labs\Lab00-Basics_of_C#\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.pdb
+C:\Users\josep\OneDrive\Desktop\School\Sem_2.5\Object Oriented Programming\Labs\Lab00-Basics_of_C#\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Desktop\School\Sem_2.5\Object Oriented Programming\Labs\Lab00-Basics_of_C#\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Desktop\School\Sem_2.5\Object Oriented Programming\Labs\Lab00-Basics_of_C#\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.exe
+C:\Users\josep\OneDrive\Desktop\School\Sem_2.5\Object Oriented Programming\Labs\Lab00-Basics_of_C#\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.pdb
